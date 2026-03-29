@@ -12,6 +12,7 @@ public class questao23 {
         System.out.println("o quadrado do numero é: "+quadrado);
         System.out.println("o cubo do numero é: "+cubo);
 
+        scanner.close();
     }
     
 }

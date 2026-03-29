@@ -13,5 +13,6 @@ public class questao5 {
         b= sc.nextInt();
         int resultado= a / b;
         System.out.println("a divisão dos numeros é: "+resultado);
+        sc.close();
     }
 }

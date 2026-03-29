@@ -16,6 +16,7 @@ public class questao17 {
         System.out.println("final de semana");
  }else{
         System.out.println("dia de semana");}
+        sc.close();
  }
 
 }

@@ -17,6 +17,7 @@ public class questao18 {
         } else {
             System.out.println("pessoa é alta");
         }
+        sc.close();
     }
     
 }

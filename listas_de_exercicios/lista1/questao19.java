@@ -14,6 +14,7 @@ public class questao19 {
         Double salarioDia= horasTrabalhadas * valorHora;
         System.out.println("o salário do funcionário é:"+salarioDia);
         
+        sc.close();
     }
     
 }

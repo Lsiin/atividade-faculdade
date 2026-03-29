@@ -23,6 +23,7 @@ public class questao12 {
          } else {
             System.out.println("D");
         }
+        sc.close();
     }
     
 }

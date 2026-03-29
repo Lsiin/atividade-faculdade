@@ -13,5 +13,6 @@ public class questao2 {
         } else {
             System.out.println("Você é menor de idade.");
         }
+        sc.close();
     }
 }

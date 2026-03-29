@@ -13,5 +13,6 @@ public class questao12 {
         System.out.println("senha correta");
 }else{
         System.out.println("senha incorreta");}
+        sc.close();
  }
 }

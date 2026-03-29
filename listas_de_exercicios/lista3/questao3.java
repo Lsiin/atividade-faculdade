@@ -17,6 +17,7 @@ public class questao3 {
         } else {
             System.out.println("obesidade!!");
         }
+        sc.close();
     }
     
 }

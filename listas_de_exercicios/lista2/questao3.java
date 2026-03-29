@@ -14,6 +14,6 @@ public class questao3 {
     } else {
         System.out.println("o numero é zero");
     }
-
+    sc.close();
 }
 }

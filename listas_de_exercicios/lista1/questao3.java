@@ -13,6 +13,7 @@ public class questao3 {
         b= sc.nextInt();
         int resultado= a + b;
         System.out.println("a soma dos numeros é: "+resultado);
+        sc.close();
     }
 
     

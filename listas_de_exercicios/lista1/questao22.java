@@ -9,6 +9,7 @@ public class questao22 {
         idade = sc.nextInt();
         int meses = idade * 12;
         System.out.println("sua idade em meses é: "+meses);
+        sc.close();
     }
     
 }

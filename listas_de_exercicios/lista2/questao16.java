@@ -13,5 +13,6 @@ public class questao16 {
         System.out.println("não negativo");
 }else{
         System.out.println("negativo");}
+        sc.close();
  }
 }

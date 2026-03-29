@@ -12,5 +12,6 @@ public class questao9 {
         System.out.println("o numero é especial");
     }else{
         System.out.println("o numero é comum");}
+        sc.close();
     }
 }

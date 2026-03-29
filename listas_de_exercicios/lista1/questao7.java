@@ -11,6 +11,7 @@ public class questao7 {
        int triplo= a * 3;
         System.out.println("o triplo do numero é: "+ triplo);
 
+        sc.close();
     }
     
 }

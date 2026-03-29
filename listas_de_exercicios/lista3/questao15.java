@@ -21,6 +21,7 @@ public class questao15 {
          } else {
             System.out.println("normal");
         }
+        sc.close();
     }
     
 }

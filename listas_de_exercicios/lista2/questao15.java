@@ -13,5 +13,6 @@ public class questao15 {
         System.out.println("aprovado");
 }else{
         System.out.println("em recuperação");}
+        sc.close();
  }
 }

@@ -13,7 +13,8 @@ public class questao18 {
     if(idade >=18){
         System.out.println("entrada permitida");
 }else
-              System.out.println("entrada não permitida");}
+              System.out.println("entrada não permitida");
+              sc.close();}
        }
        
        

@@ -20,6 +20,7 @@ public class questao7 {
         } else {
             System.out.println("sem desconto!!");
         }
+        sc.close();
     }
     
 }

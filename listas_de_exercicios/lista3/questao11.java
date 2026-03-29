@@ -23,6 +23,7 @@ public class questao11 {
          } else {
             System.out.println("sem bônus");
         }
+        sc.close();
     }
     
 }

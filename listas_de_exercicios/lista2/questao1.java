@@ -13,5 +13,6 @@ public class questao1 {
         }else{
             System.out.println("o numero é impar");
         }
+        sc.close();
     }
 }

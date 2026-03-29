@@ -21,6 +21,7 @@ public class questao14 {
          } else {
             System.out.println("fora");
         }
+        sc.close();
     }
     
 }

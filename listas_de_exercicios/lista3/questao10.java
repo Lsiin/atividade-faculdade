@@ -18,6 +18,7 @@ public class questao10 {
         } else {
             System.out.println("outro");
         }
+        sc.close();
     }
     
 }

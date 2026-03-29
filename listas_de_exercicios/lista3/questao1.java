@@ -17,6 +17,7 @@ public class questao1 {
         } else {
             System.out.println("Reprovado!!");
         }
+        sc.close();
     }
     
 }

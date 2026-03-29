@@ -28,6 +28,7 @@ public class questao17 {
         } else {
             System.out.println("dia inválido");
         }
+        sc.close();
     }
     
 }

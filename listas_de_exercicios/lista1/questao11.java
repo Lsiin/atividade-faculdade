@@ -19,6 +19,7 @@ public class questao11 {
 
         double media= Arrays.stream(new double[]{a,b,c}).average().orElse(0);
         System.out.println("a media dos numeros é: "+media);
+        sc.close();
     }
     
 }

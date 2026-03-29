@@ -12,5 +12,6 @@ public class questao6 {
     } else {
         System.out.println("Você não pode votar.");
     }
+    sc.close();
 }
 }

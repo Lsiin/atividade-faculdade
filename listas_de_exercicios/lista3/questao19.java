@@ -19,6 +19,7 @@ public class questao19 {
         } else {
             System.out.println("novato");
         }
+        sc.close();
     }
     
 }

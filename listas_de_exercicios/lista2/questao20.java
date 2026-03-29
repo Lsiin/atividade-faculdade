@@ -13,7 +13,8 @@ public class questao20 {
     if(numero % 5 ==0){
         System.out.println("multiplo de 5");
 }else
-              System.out.println("não é multiplo de 5");}
+              System.out.println("não é multiplo de 5");
+              sc.close();}
        }
        
        

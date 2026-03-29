@@ -13,7 +13,8 @@ public class questao19 {
     if(produto >= 1){
         System.out.println("disponivel");
 }else
-              System.out.println("indisponivel");}
+              System.out.println("indisponivel");
+              sc.close();}
        }
        
        

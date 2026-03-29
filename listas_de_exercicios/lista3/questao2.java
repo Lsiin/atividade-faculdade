@@ -17,6 +17,7 @@ public class questao2 {
         } else {
             System.out.println("idoso!!");
         }
+        sc.close();
     }
     
 }

@@ -20,5 +20,6 @@ public class questao18 {
         double media = (nota1 + nota2) / 2;
         System.out.println("a media do aluno " + aluno + " é: " + media);
 
+        sc.close();
     }
 }

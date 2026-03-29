@@ -11,5 +11,6 @@ public class questao14 {
 
         double conversaoCentimetros= valorMetros * 100;
         System.out.println("o valor em centimetros é: " + conversaoCentimetros);
+        sc.close();
     }
 }

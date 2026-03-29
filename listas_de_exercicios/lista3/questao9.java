@@ -19,6 +19,7 @@ public class questao9 {
         } else {
             System.out.println("melhor idade!!");
         }
+        sc.close();
     }
     
 }

@@ -16,6 +16,7 @@ public class questao4 {
         } else {
             System.out.println("negativo");
         }
+        sc.close();
     }
     
 }

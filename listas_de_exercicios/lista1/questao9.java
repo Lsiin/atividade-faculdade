@@ -11,6 +11,7 @@ public class questao9 {
      int idade = 2026 - ano;
      System.out.println("sua idade é: "+idade);
 
+     sc.close();
     }
    
     

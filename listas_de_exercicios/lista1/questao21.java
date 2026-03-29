@@ -10,6 +10,7 @@ public class questao21 {
         double area= 3.14 * raio * raio;
         System.out.println("a area do circulo é: "+area);
         
+        sc.close();
     }
     
 }

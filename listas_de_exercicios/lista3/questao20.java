@@ -21,6 +21,7 @@ public class questao20 {
         } else {
             System.out.println("reprovado");
         }
+        sc.close();
     }
     
 }

@@ -13,5 +13,6 @@ public class questao11 {
         System.out.println("numero é múltiplo de 3");
 }else{
         System.out.println("numero não é múltiplo de 3");}
+        sc.close();
  }
 }

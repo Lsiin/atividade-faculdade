@@ -12,6 +12,7 @@ public class questao15 {
 
         int conversaoCentimetros= valorQuilometros * 1000;
         System.out.println("o valor em centimetros é: " + conversaoCentimetros);
+        sc.close();
     }
     
 }

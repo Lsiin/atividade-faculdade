@@ -10,6 +10,8 @@ public class questao2 {
         x= sc.nextInt();
 
         System.out.println("o numero é: "+x);
+
+        sc.close();
     }
 
     

@@ -13,5 +13,6 @@ public class questao14 {
         System.out.println("dentro do intervalo");
 }else{
         System.out.println("fora do intervalo");}
+        sc.close();
  }
 }

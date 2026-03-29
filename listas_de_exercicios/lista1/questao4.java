@@ -13,6 +13,7 @@ public class questao4 {
         b= sc.nextInt();
         int resultado= a * b;
         System.out.println("a multiplicação dos numeros é: "+resultado);
+        sc.close();
     }
 
 

@@ -12,5 +12,6 @@ public class questao10 {
         System.out.println("o numero é alto");
     }else{
         System.out.println("o numero é baixo");}
+        sc.close();
     }
 }

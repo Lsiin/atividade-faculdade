@@ -18,5 +18,6 @@ public class questao5 {
     } else {
         System.out.println("os numeros são iguais");
     }
+    sc.close();
 }
 }

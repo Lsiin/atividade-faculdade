@@ -10,5 +10,6 @@ public class questao1 {
 
         System.out.println("olá "+nome+"! Seja bem-vindo à programação");
         
+        sc.close();
     }
 }

@@ -16,5 +16,6 @@ public class questao10 {
 
     int resultado= a + b + c;
     System.out.println("a soma dos numeros é: "+resultado);
+    sc.close();
     }
 }

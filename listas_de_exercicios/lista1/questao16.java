@@ -10,5 +10,6 @@ public class questao16 {
 
         double salarioAnual= salario * 12;
         System.out.println("o salario anual do funcionario é: "+salarioAnual);
+        sc.close();
     }
 }

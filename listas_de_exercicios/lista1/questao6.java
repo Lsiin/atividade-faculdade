@@ -11,6 +11,7 @@ public class questao6 {
        int dobro= a * 2;
         System.out.println("o dobro do numero é: "+dobro);
 
+        sc.close();
     }
     
 }

@@ -8,13 +8,14 @@ public class questao5 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite a senha: ");
         senha = sc.nextLine();
-        if (senha == "admin") {
+        if (senha.equals("admin")) {
             System.out.println("acesso total");
-        } else if (senha == "user") {
+        } else if (senha.equals("user")) {
             System.out.println("acesso parcial");
         } else {
             System.out.println("acesso negado");
         }
+        sc.close();
     }
     
 }

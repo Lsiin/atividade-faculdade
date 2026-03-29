@@ -13,6 +13,7 @@ public class questao20 {
         double conversao = reais * dolar;
         System.out.println("o valora convertido em dolar é: "+conversao);
 
+        sc.close();
     }
     
 }

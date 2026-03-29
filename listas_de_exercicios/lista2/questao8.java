@@ -17,5 +17,6 @@ class questao8 {
     }else {
         System.out.println("O valor do produto" + produto + "é: " + valor);
     }
+    sc.close();
 }
 }

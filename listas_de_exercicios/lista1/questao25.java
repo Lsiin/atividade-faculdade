@@ -17,6 +17,6 @@ public class questao25 {
         double totalCompra= precoProduto * quantidadeProduto;
         System.out.println("o total da compra do produto "+nomeProduto+" é: "+totalCompra);
         
-
+        sc.close();
     }
 }

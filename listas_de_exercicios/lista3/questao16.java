@@ -21,6 +21,7 @@ public class questao16 {
          } else {
             System.out.println("econômico");
         }
+        sc.close();
     }
     
 }

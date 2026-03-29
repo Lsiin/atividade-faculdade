@@ -17,6 +17,7 @@ public class questao8 {
          } else {
             System.out.println("Aluno reprovado!!");
         }
+        sc.close();
     }
     
 }

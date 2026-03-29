@@ -13,5 +13,6 @@ public class questao13 {
         System.out.println("salario alto");
 }else{
         System.out.println("salario baixo");}
+        sc.close();
  }
 }

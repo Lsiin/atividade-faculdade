@@ -13,5 +13,6 @@ class questao7 {
     } else {
         System.out.println("você não está com febre");
     }
+    sc.close();
 }
 }

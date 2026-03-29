@@ -24,6 +24,7 @@ public class questao17 {
             System.out.println("Subtração: " + subtracao);
             System.out.println("Divisão: " + divisao);
     
+            sc.close();
     }
 
 }

@@ -10,5 +10,6 @@ public class questao13 {
        produto = sc.nextDouble();
        double valorProduto = produto * 3.0;
          System.out.println("o valor do produto com 3 vezes o valor é: "+valorProduto);
+         sc.close();
     }
 }

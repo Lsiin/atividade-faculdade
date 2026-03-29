@@ -11,6 +11,7 @@ public class questao12 {
         System.out.println("digite a altura do retangulo");
         altura= sc.nextDouble();
         double area= largura * altura;
-        System.out.println("a area do retangulo é: "+area);  
+        System.out.println("a area do retangulo é: "+area);
+        sc.close();
     }
 }

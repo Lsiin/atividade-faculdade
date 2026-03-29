@@ -13,6 +13,7 @@ public class questao8 {
         int depois= a + 1;
         System.out.println("o seu antecessor é: "+antes+" e o seu sucessor é  "+depois);
 
+        sc.close();
     }
     
 }

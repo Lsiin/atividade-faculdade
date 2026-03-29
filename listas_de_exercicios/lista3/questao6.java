@@ -17,6 +17,7 @@ public class questao6 {
         } else {
             System.out.println("frio!!");
         }
+        sc.close();
     }
     
 }
