@@ -7,13 +7,16 @@
   > eu baixei pelo zulu, mas se a senhora ja tiver o java, vai ser ótimo
 - Verificar instalação: `java -version` e `javac -version` no terminal
 
-## Estrutura
-atividade-faculdade/
-├── listas_de_exercicios/
-│   ├── lista1/   → Exercícios de entrada e saída de dados
-│   ├── lista2/   → Exercícios com estrutura condicional (if/else)
-│   ├── lista3/   → Exercícios com condicionais encadeadas
-│   └── lista4/   → Exercícios com estrutura de escolha (switch/case)
+<details>
+  <summary>📂 <strong>Ver estrutura de pastas</strong></summary>
+
+  * 📁 **listas_de_exercicios/**
+    * 📁 `lista1/` — Exercícios de entrada e saída de dados
+    * 📁 `lista2/` — Exercícios com estrutura condicional (`if`/`else`)
+    * 📁 `lista3/` — Exercícios com condicionais encadeadas
+    * 📁 `lista4/` — Exercícios com estrutura de escolha (`switch`/`case`)
+
+</details>
 
 - considere para a correção apenas os exercícios da lista4( é a que vale ponto hahaha )
 
