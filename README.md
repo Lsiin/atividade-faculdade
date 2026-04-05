@@ -15,12 +15,17 @@
     * 📁 `lista2/` — Exercícios com estrutura condicional (`if`/`else`)
     * 📁 `lista3/` — Exercícios com condicionais encadeadas
     * 📁 `lista4/` — Exercícios com estrutura de escolha (`switch`/`case`)
+    * 📁 `lista5/` — Exercícios com estrutura de repetição (`for`)
+      * Nível 1 (questao1–8): estrutura básica do `for`
+      * Nível 2 (questao9–15): entrada do usuário com `for`
+      * Nível 3 (questao16–20): acumuladores
+      * Nível 4 (questao21–25): contadores e lógica
 
 </details>
 
 - considere para a correção apenas os exercícios da lista4( é a que vale ponto hahaha )
 
-Cada lista contém arquivos `questao1.java` até `questao20.java`.
+Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`.
 
 ## Como Executar
 
@@ -28,11 +33,11 @@ Os arquivos usam `package`, então os comandos devem ser executados a partir da 
 
 **Executar:**
 ```bash
-java listas_de_exercicios.lista4.questao1
+java listas_de_exercicios.lista5.questao1
 ```
 
-> se estiver usando o `IntelliJ IDEA` ou `VsCode` o botão para startar a aplicação vai está em algumcanto da tela.
-> Substitua `lista4` e `questao1` pela lista e questão desejada.
+> se estiver usando o `IntelliJ IDEA` ou `VsCode` o botão para startar a aplicação vai está em algum lugar no canto da tela.
+> Substitua `lista5` e `questao1` pela lista e questão desejada.
 > Lembrando que as atividades importantes estão na lista 4, as outras questões são das outras listas que a senhora passou.
 
 
