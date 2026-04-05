@@ -23,7 +23,7 @@
 
 </details>
 
-- considere para a correção apenas os exercícios da lista4( é a que vale ponto hahaha )
+-Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista5( é a que vale ponto hahaha )
 
 Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`.
 
