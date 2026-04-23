@@ -20,12 +20,16 @@
       * Nível 2 (questao9–15): entrada do usuário com `for`
       * Nível 3 (questao16–20): acumuladores
       * Nível 4 (questao21–25): contadores e lógica
+    * 📁 `lista6/` — Exercícios com estrutura de repetição (`do-while`)
+      * Controle de repetição com validação de dados
+      * Menus interativos
+      * Acumuladores e decisões condicionais
 
 </details>
 
--Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista5( é a que vale ponto hahaha )
+-Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista6( é a que vale ponto hahaha )
 
-Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`.
+Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`. A `lista6/` vai até `questao20.java`.
 
 ## Como Executar
 
@@ -33,12 +37,12 @@ Os arquivos usam `package`, então os comandos devem ser executados a partir da 
 
 **Executar:**
 ```bash
-java listas_de_exercicios.lista5.questao1
+java listas_de_exercicios.lista6.questao1
 ```
 
 > se estiver usando o `IntelliJ IDEA` ou `VsCode` o botão para startar a aplicação vai está em algum lugar no canto da tela.
-> Substitua `lista5` e `questao1` pela lista e questão desejada.
-> Lembrando que as atividades importantes estão na lista 4, as outras questões são das outras listas que a senhora passou.
+> Substitua `lista6` e `questao1` pela lista e questão desejada.
+> Lembrando que as atividades importantes estão na lista6, as outras questões são das outras listas que a senhora passou.
 
 
 ## Observações
