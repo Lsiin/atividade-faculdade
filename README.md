@@ -24,12 +24,16 @@
       * Controle de repetição com validação de dados
       * Menus interativos
       * Acumuladores e decisões condicionais
+    * 📁 `lista7/` — Exercícios com vetores
+      * Declaração e preenchimento manual e aleatório
+      * Acesso a elementos por posição
+      * Iteração, filtragem e inversão de vetores
 
 </details>
 
--Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista6( é a que vale ponto hahaha )
+-Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista7( é a que vale ponto hahaha )
 
-Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`. A `lista6/` vai até `questao20.java`.
+Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`. A `lista6/` e `lista7/` vão até `questao20.java` e `questao10.java` respectivamente.
 
 ## Como Executar
 
@@ -37,12 +41,12 @@ Os arquivos usam `package`, então os comandos devem ser executados a partir da 
 
 **Executar:**
 ```bash
-java listas_de_exercicios.lista6.questao1
+java listas_de_exercicios.lista7.questao1
 ```
 
 > se estiver usando o `IntelliJ IDEA` ou `VsCode` o botão para startar a aplicação vai está em algum lugar no canto da tela.
-> Substitua `lista6` e `questao1` pela lista e questão desejada.
-> Lembrando que as atividades importantes estão na lista6, as outras questões são das outras listas que a senhora passou.
+> Substitua `lista7` e `questao1` pela lista e questão desejada.
+> Lembrando que as atividades importantes estão na lista7, as outras questões são das outras listas que a senhora passou.
 
 
 ## Observações
