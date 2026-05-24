@@ -28,12 +28,15 @@
       * Declaração e preenchimento manual e aleatório
       * Acesso a elementos por posição
       * Iteração, filtragem e inversão de vetores
+    * 📁 `lista8/` — Exercícios com operadores lógicos (`&&`, `||`, `!`)
+      * 15 questões com cenários do cotidiano
+      * `Testes.java` — simula todas as combinações de entrada de cada questão
 
 </details>
 
 -Nessa nova entrega, peço que considere para a correção apenas os exercícios da lista7( é a que vale ponto hahaha )
 
-Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`. A `lista6/` e `lista7/` vão até `questao20.java` e `questao10.java` respectivamente.
+Cada lista contém arquivos `questao1.java` até `questao20.java`, exceto a `lista5/` que vai até `questao25.java`. A `lista6/` e `lista7/` vão até `questao20.java` e `questao10.java` respectivamente. A `lista8/` vai até `questao15.java`.
 
 ## Como Executar
 
@@ -48,6 +51,10 @@ java listas_de_exercicios.lista7.questao1
 > Substitua `lista7` e `questao1` pela lista e questão desejada.
 > Lembrando que as atividades importantes estão na lista7, as outras questões são das outras listas que a senhora passou.
 
+**Executar os testes da lista8:**
+```bash
+java listas_de_exercicios.lista8.Testes
+```
 
 ## Observações
 - Os programas utilizam `Scanner` para leitura de dados via teclado — basta digitar os valores quando solicitado no terminal.
